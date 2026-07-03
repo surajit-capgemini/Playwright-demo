@@ -6,3 +6,11 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+/.agents
+/.github/agents
+/.github/docs
+/.github/old
+/.github/skills
+/.github/utils
+/.playwright-cli
+/scratch

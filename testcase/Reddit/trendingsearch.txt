@@ -1,0 +1,3 @@
+1. Go to the https://www.reddit.com/ website and verify reddit Home page is open.
+2. Click on the search bar and click on the first trending item and verify AI generated Response is shwoing with "What people are saying" in All tab
+3. Verify the selected seach item is showing on the search bar.

@@ -2,13 +2,15 @@
   "name": "playwright",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "mcp": "playwright-mcp"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "@playwright/mcp": "^0.0.76",
     "@playwright/test": "^1.60.0",
     "@types/node": "^25.9.2"
   }

@@ -1,0 +1,5 @@
+1. Open the https://www.reddit.com/ website and verify reddit Home page is open.
+2. Click on the search bar and search r/AskReddit and click on the community and verify the url is https://www.reddit.com/r/AskReddit and "Best" sort option is selected.
+3. Click on the first post and verify the post title should be string and visible.
+4. Scroll down and click on the "Search Comments" box and search "xaxajhcaugcusy" and hit enter from keyboard.
+5. Verify Hm... we couldn’t find any results for “xaxajhcaugcusy” is displayed.

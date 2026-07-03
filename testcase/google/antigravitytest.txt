@@ -1,0 +1,6 @@
+1. Navigate to the https://antigravity.google/ webpage.
+    - verify "Experience liftoff with the next-gen agent platform" is displayed.
+2. Hover on the Resources and click on the Documentation
+    - Verify /docs/getting-started is shown in url
+3. Click on the Antigravity IDE from the side panel > Artifacts > Plan
+    - verify https://antigravity.google/docs/ide-implementation-plan URL is open.
