@@ -1,0 +1,13 @@
+{
+  "username": "Admin",
+  "password": "admin123",
+  "employeeName": "Sai Krishna EMP12345",
+  "claimEvent": "Medical Reimbursement",
+  "currency": "United States Dollar",
+  "remarks": "Reimbursement for medical checkup",
+  "expenseType": "Accommodation",
+  "expenseDate": "2026-06-12",
+  "expenseAmount": "150.00",
+  "expenseRemarks": "Eye examination",
+  "expectedStatus": "Paid"
+}

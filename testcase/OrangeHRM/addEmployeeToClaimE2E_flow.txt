@@ -1,0 +1,24 @@
+Test Case: OrangeHRM Add Employee to Claim E2E Flow
+Base URL: https://opensource-demo.orangehrmlive.com/
+
+Steps:
+1. Navigate to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2. Enter Username "Admin" and Password "admin123" and click Login
+3. Verify Dashboard page is loaded
+4. Navigate to Claim section by clicking "Claim" in the sidebar
+5. Click on "Assign Claim" link in the Claim navigation bar
+6. Search and select Employee Name "Amelia Brown"
+7. Select Claim Event "Medical Reimbursement"
+8. Select Currency "United States Dollar"
+9. Enter Remarks "Reimbursement for medical checkup"
+10. Click Create button
+11. Verify Claim is created successfully
+12. Click "Add" button under Expenses
+13. Select Expense Type "Medical Allowance"
+14. Enter Date "2026-06-12"
+15. Enter Amount "150.00"
+16. Enter Expense Remarks "Eye examination"
+17. Click Save button under Add Expense
+18. Verify Expense is added to the claim
+19. Click Submit button to submit the claim
+20. Verify Claim status changes to "Initiated"
